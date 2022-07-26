@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:title="Sport"
+        android:id="@+id/sport"
+        android:icon="@drawable/ic_baseline_sports_basketball_24"/>
+    <item android:title="Health"
+        android:id="@+id/health"
+        android:icon="@drawable/ic_baseline_local_hospital_24"/>
+    <item android:title="Science"
+        android:id="@+id/science"
+        android:icon="@drawable/ic_baseline_science_24"/>
+    <item android:title="Search"
+        android:id="@+id/search"
+        android:icon="@drawable/ic_baseline_search_24"/>
+</menu>
